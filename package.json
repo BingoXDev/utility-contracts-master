@@ -1,0 +1,27 @@
+{
+  "name": "utility-contracts",
+  "version": "1.0.0",
+  "description": "utility contracts for ethereum blockchain",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "bignumber.js": "^6.0.0",
+    "web3": "^1.2.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MyEtherWallet/utility-contracts.git"
+  },
+  "author": "kvhnuke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MyEtherWallet/utility-contracts/issues"
+  },
+  "homepage": "https://github.com/MyEtherWallet/utility-contracts#readme"
+}
